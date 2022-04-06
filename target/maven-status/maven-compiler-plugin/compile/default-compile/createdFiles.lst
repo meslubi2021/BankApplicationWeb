@@ -1,0 +1,16 @@
+com\mycompany\p1bankapplicationweb\controller\AccountController.class
+com\mycompany\p1bankapplicationweb\command\AccountCommand.class
+com\mycompany\p1bankapplicationweb\command\LoginCommand.class
+com\mycompany\p1bankapplicationweb\dao\UserDAO.class
+com\mycompany\p1bankapplicationweb\dao\UserDAOImplementation.class
+com\mycompany\p1bankapplicationweb\domain\Accounts.class
+com\mycompany\p1bankapplicationweb\dao\AccountDAO.class
+com\mycompany\p1bankapplicationweb\configuration\DispatcherServletInitializer.class
+com\mycompany\p1bankapplicationweb\dao\AccountDAOImplementation.class
+com\mycompany\p1bankapplicationweb\dao\DatabaseVariable.class
+com\mycompany\p1bankapplicationweb\controller\DbConnection.class
+com\mycompany\p1bankapplicationweb\configuration\SpringRootConfig.class
+com\mycompany\p1bankapplicationweb\configuration\SpringWebConfig.class
+com\mycompany\p1bankapplicationweb\controller\TestController.class
+com\mycompany\p1bankapplicationweb\controller\UserController.class
+com\mycompany\p1bankapplicationweb\domain\Users.class
